@@ -1,4 +1,4 @@
-# Scripts-Configs
+# Scripts and Configs
 To store some scripts that are hard to be classfied.
 
 Content
