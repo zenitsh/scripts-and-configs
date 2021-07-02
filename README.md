@@ -5,4 +5,6 @@ Content
 
 .vimrc --- vim config
 
+pind.py --- a python script to generate mind maps
+
 MyExtra.js --- used for RPG Maker MV
